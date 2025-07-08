@@ -4,7 +4,7 @@
 🌱 I’m currently learning Laravel, Docker, and MicroTik  
 💞️ I’m looking to collaborate on open-source IoT or embedded systems  
 📫 How to reach me:  
-📧 Email: ataillah@gmail.com  
+📧 Email: atailahsp@gmail.com  
 📱 WhatsApp: 082285956011
 
 ---
